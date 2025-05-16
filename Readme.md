@@ -23,6 +23,11 @@ L'objectif principal de ce projet est d'explorer la **programmation en C avec GT
 - ✅ Design personnalisé avec un fichier `style.css`
 
 ---
+## 🖼️ Capture d’écran
+
+Voici une To-Do List application :
+
+![To-Do List Screenshot](images/Todo_Capture.png)
 
 ## 🛠️ Structure du projet
 
@@ -36,6 +41,3 @@ L'objectif principal de ce projet est d'explorer la **programmation en C avec GT
 ├── to_do_list     # Binaire généré après compilation
 
 
-Voici une To-Do List application:
-
-![To-Do List Screenshot](images/Todo_Capture.png)
