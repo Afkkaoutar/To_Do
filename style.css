@@ -1,0 +1,26 @@
+window {
+    background-color: #2E3440;
+}
+
+entry {
+    background-color: #a77d9d;
+    color: #2E3440;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+button {
+    background-color: #230921;
+    color: rgb(72, 29, 86);
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+list {
+    background-color: #752b67;
+}
+
+list row {
+    padding: 6px;
+    border-bottom: 1px solid #765c83;
+}
